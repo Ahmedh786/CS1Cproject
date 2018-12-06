@@ -28,8 +28,6 @@ private slots:
     void on_draw_btn_clicked();
 
 
-    void on_login_btn_clicked();
-
 private:
     Ui::MainWindow *ui;
      Shape * currentShape;
